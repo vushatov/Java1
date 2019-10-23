@@ -21,7 +21,7 @@ while (r){
                a = scanner.nextInt();
            r=false;}
             catch (InputMismatchException e) {
-               System.out.println("Error!");
+               System.out.println("Error!!");
                scanner.next();
                }
 }
